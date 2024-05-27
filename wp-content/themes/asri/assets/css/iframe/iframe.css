@@ -1,0 +1,33 @@
+.chat-closed #button-body, .chat-open #button-body {
+  background: -webkit-gradient(linear, right top, left top, from(#8d4cfa), to(#5f6ffb)) !important;
+  background: -webkit-linear-gradient(to right, #8d4cfa, #5f6ffb) !important;
+  background: -moz-linear-gradient(to right, #8d4cfa, #5f6ffb) !important;
+  background: -ms-linear-gradient(to right, #8d4cfa, #5f6ffb) !important;
+  background: -o-linear-gradient(to right, #8d4cfa, #5f6ffb) !important;
+  background: linear-gradient(to right, #8d4cfa, #5f6ffb) !important;
+  box-shadow: rgba(95, 111, 251, 0.4) 0px 2px 16px !important;
+  color: #5f6ffb;
+}
+.frame-content .chat .user-data-modal .user-data-modal-submit {
+  box-shadow: rgba(95, 111, 251, 0.12) 0px 2px 16px !important;
+}
+.frame-content .chat .chat-header, .frame-content .chat .offline-message, .frame-content .chat #conversation-group .message-visitor, .frame-content .chat .user-data-modal .user-data-modal-submit, .frame-content .chat .user-data-modal {
+  background: -webkit-gradient(linear, right top, left top, from(#8d4cfa), to(#5f6ffb)) !important;
+  background: -webkit-linear-gradient(to right, #8d4cfa, #5f6ffb) !important;
+  background: -moz-linear-gradient(to right, #8d4cfa, #5f6ffb) !important;
+  background: -ms-linear-gradient(to right, #8d4cfa, #5f6ffb) !important;
+  background: -o-linear-gradient(to right, #8d4cfa, #5f6ffb) !important;
+  background: linear-gradient(to right, #8d4cfa, #5f6ffb) !important;
+}
+.frame-content .chat .message-operator.message-with-buttons button, .frame-content .chat .message-operator .message-with-buttons button, .frame-content .chat .message-operator.bots-quick-replies button {
+  color: #5f6ffb;
+}
+.frame-content .chat .footer-icons-wrapper + div {
+  display: none;
+}
+.frame-content .chat .user-data-modal .user-data-modal-fields #ic_arrow {
+  fill: #5f6ffb;
+}
+.frame-content .flyMessage .button-wrapper button, .frame-content .flyMessage .button-wrapper .button-url {
+  color: #5f6ffb;
+}
